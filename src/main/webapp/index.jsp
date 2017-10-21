@@ -11,6 +11,7 @@
         <h1>Hello Version IT</h1>
         <h1>hello srinu</h1>
         <h1>hai.......................</h1>
+        <h1>haiii hello</h1>
         
         GET all the <a href="${pageContext.request.contextPath}/resources/persons"/>persons</a>.
     </body>
